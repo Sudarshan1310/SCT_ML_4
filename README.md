@@ -88,8 +88,8 @@ Flatten → Dense(128) → Dropout(0.5)
 Output Layer: Softmax (10 classes)
 
 ### 📦 Requirements
-tensorflow
-numpy
-opencv-python
-matplotlib
-scikit-learn
+- tensorflow
+- numpy
+- opencv-python
+- matplotlib
+- scikit-learn
