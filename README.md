@@ -10,7 +10,6 @@ This project implements a Convolutional Neural Network (CNN) to classify static 
 ## 👤 Student Details
 
 **Name**: Gavini Sai Geeteswa Sudarshan  
-**Reg. No.**: 23BCE8626
 
 ---
 
